@@ -1,5 +1,3 @@
-/data*
-
 .idea
 *.pyc
 *.so
@@ -11,6 +9,3 @@
 *.swp
 
 *~
-
-/output
-/recoding
